@@ -1,2 +1,2 @@
-thoughtconverge.github.com
+thoughtconverge.github.io
 ==========================
