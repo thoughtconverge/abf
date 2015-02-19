@@ -1,4 +1,5 @@
-[Adblock]
+﻿[Adblock]
+!Edit
 @@||b3.hoopchina.com.cn/images/logo2013/v1/hp_logo_racing.png$media,image
 @@||encrypted.google.com/recaptcha/api/
 @@||inbox.google.com/$document
