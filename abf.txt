@@ -205,7 +205,6 @@ gre.learnhub.com##DIV[id="trustmarks_wrapper"]
 gre.learnhub.com##DIV[id="twitter"]
 highonandroid.com##DIV[id="sidebar"]
 http://magoosh.com/gre/wp-content/plugins/$domain=magoosh.com,media,subdocument,object,image,script,stylesheet,xmlhttprequest,popup
-https://accounts.google.com/o/oauth2/
 https://apis.google.com/_/scs/abc-static/_/js/$domain=youtube.com
 https://d1luk0418egahw.cloudfront.net/Assets/Guide/ifixit/FrameModules-comments.js$object,script
 https://d1luk0418egahw.cloudfront.net/Assets/Guide/ifixit/FrameModules-moderator_vote.js$script
