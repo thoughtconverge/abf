@@ -432,7 +432,6 @@ www.autosport.com##TD[class="dots_vertical"]
 www.autosport.com##TD[height="15"]
 www.autosport.com##TD[height="21"][valign="middle"][align="right"]
 www.autosport.com##TD[height="296"][width="294"]
-www.autosport.com##TD[width="319"]
 www.autosport.com##TD[width="8"]
 www.autosport.com/css/plus0113b.css
 www.autosport.com/js/overlib.js?v=2
