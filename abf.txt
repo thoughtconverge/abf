@@ -118,7 +118,6 @@ arstechnica.com##[id="profile"]
 articles.economictimes.indiatimes.com##[class="mod-featuredimage tplmodulefeaturedimage mod-homepageimage mod-articleimage"]
 articles.economictimes.indiatimes.com##DIV[id="mod-readers-comment"][class="mod-readerscomment"]
 au.ibtimes.com##DIV[class="bk_basic bk_playtv1 mg_b0"]
-autosport.com##TD.content[width="275"][valign="top"]:first-child
 blog.coolaj86.com##DIV[class="css-shares"]
 blog.coolaj86.com##DIV[class="gittip-widget gittip-0002"]
 blog.coolaj86.com##IFRAME[src="https://www.gittip.com/coolaj86/widget.html"]
@@ -429,7 +428,9 @@ www.autosport.com##DIV[id="loginBoxWrap"]
 www.autosport.com##TABLE[class="boxes"]
 www.autosport.com##TABLE[class="content"]
 www.autosport.com##TABLE[class="smalltext"]
+www.autosport.com##TD.bluebg:last-child
 www.autosport.com##TD.bluebg[align="left"]
+www.autosport.com##TD.content[width="275"][valign="top"]:first-child
 www.autosport.com##TD[class="dots_vertical"]
 www.autosport.com##TD[height="15"]
 www.autosport.com##TD[height="21"][valign="middle"][align="right"]
