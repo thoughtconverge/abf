@@ -4,6 +4,7 @@
 @@||inbox.google.com/$document
 @@||mail.google.com/$document
 @@||s7.addthis.com^*/addthis_widget.js*pubid=
+@@||vivaldi.com/$document
 @@||www.f1technical.net/development/$document
 @@||www.youtube.com/html5$document
 ||1.bp.blogspot.com
@@ -24,8 +25,7 @@
 ||blogsmithmedia.com/www.engadget.com/include/
 ||cdn.images.autosport.com/plus/subs-ptd-news.jpg$domain=autosport.com
 ||cdn.images.autosport.com/standards/js/$domain=autosport.com
-||cdn.images.autosport.com/subscriptions/images/aplus-new-final.jpg$domain=autosport.com
-||cdn.images.autosport.com/subscriptions/images/as+header-loggedout.jpg$domain=autosport.com,popup
+||cdn.images.autosport.com/subscriptions/images/
 ||cdn.images.autosport.com/subsflag.gif$domain=autosport.com
 ||cdn.widgets.webengage.com/js/widget/$domain=flipkart.com
 ||cdn-0.motorsport.com/p/static/css/
@@ -322,20 +322,29 @@ stupidsid.com##DIV[class="bannergroup"]
 stupidsid.com##DIV[class="bannergroupclearfix"]
 stupidsid.com##DIV[id="ja-botsl"][class="wrap "]
 stupidsid.com##DIV[id="ja-topsl"][class="wrap "]
-stupidsid.com##DIV[id="Mod151"][class="ja-moduletable moduletable ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ clearfix"]
+stupidsid.com##DIV[id="Mod151"][class="ja-moduletable moduletable ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬ ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬ ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€š ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬ ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ clearfix"]
 t3bs.blogspot.in##ASIDE[id="sidebar-wrapper"]
 tags.tiqcdn.com
 techreport.com##DIV[id="right"]
 tim.webanalyticsdemystified.com##DIV[id="specialmessage"]
+translate.googleusercontent.com##DIV[class="author"]
+translate.googleusercontent.com##DIV[class="breadCrumbs"]
 translate.googleusercontent.com##DIV[class="gmnoprint"]
 translate.googleusercontent.com##DIV[class="hp-footer"]
 translate.googleusercontent.com##DIV[class="hp-mainNav hp-mainNav-B"]
 translate.googleusercontent.com##DIV[class="hp-threeNav"]
+translate.googleusercontent.com##DIV[class="pl_nav "]
 translate.googleusercontent.com##DIV[class="right"]
+translate.googleusercontent.com##DIV[class="rss"]
 translate.googleusercontent.com##DIV[class="sign"]
+translate.googleusercontent.com##DIV[class="subhead"]
+translate.googleusercontent.com##DIV[class="user"]
+translate.googleusercontent.com##DIV[id="61145"]
 translate.googleusercontent.com##DIV[id="back"]
 translate.googleusercontent.com##DIV[id="hp-topbarNav"]
 translate.googleusercontent.com##DIV[id="sub_sidebar"]
+translate.googleusercontent.com##DIV[id="tabs_header"][class="tabs_header zoom"]
+translate.googleusercontent.com##DIV[id="threadLeftAd"]
 translate.googleusercontent.com##TABLE[class="cm"]
 washingtonexaminer.com##IFRAME
 www.4icu.org##A[href="/about/linktous.htm"]
@@ -408,6 +417,8 @@ www.autosport.com##A[class="boxes"]
 www.autosport.com##DIV[class="featureMinipic"]
 www.autosport.com##DIV[class="snbuttons"]
 www.autosport.com##DIV[class="tabs"]
+www.autosport.com##DIV[class="vr"][data-vr-zone="Breaking News"]
+www.autosport.com##DIV[class="vr"][data-vr-zone="Mega Topper"]
 www.autosport.com##DIV[id="aspop"][class="approaching"]
 www.autosport.com##DIV[id="featuresList"]
 www.autosport.com##DIV[id="filterarea"]
@@ -420,8 +431,8 @@ www.autosport.com##TABLE[class="smalltext"]
 www.autosport.com##TD[class="dots_vertical"]
 www.autosport.com##TD[height="15"]
 www.autosport.com##TD[height="21"][valign="middle"][align="right"]
+www.autosport.com##TD[height="296"][width="294"]
 www.autosport.com##TD[width="319"]
-www.autosport.com##TD[width="337"]
 www.autosport.com##TD[width="8"]
 www.autosport.com/css/plus0113b.css
 www.autosport.com/js/overlib.js?v=2
