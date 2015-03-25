@@ -9,10 +9,11 @@
 ||1.bp.blogspot.com
 ||3.bp.blogspot.com/-qXQrkzwfxtM/UV69KZodGkI/AAAAAAAAACA/CBzE74QHu6w/s1600/close_button.png
 ||4.bp.blogspot.com/-sIzCYGF-XOI/TfBczW6YLFI/AAAAAAAABLE/Xg6MEOFBsO0/s1600/close%2Bbutton.jpg
+||42me.com
 ||a.huluad.com/crossdomain.xml$domain=hulu.com
 ||ad365.pw
 ||ajax.cloudflare.com
-||ajax.googleapis.com$domain=prvservers.com
+||ajax.googleapis.com$domain=tvole.me
 ||anandtech.com/bundles/
 ||androidheadlines.com/wp-includes/js/$domain=androidheadlines.com
 ||apis.google.com/js/plusone.js
@@ -22,6 +23,8 @@
 ||autosport.com/js/sub_top.mtr.js$domain=autosport.com
 ||autosport.com/js/twitter.js$domain=autosport.com
 ||blogsmithmedia.com/www.engadget.com/include/
+||bloomberg.com/api/articles/most-popular
+||bloomberg.com/bcom/iframe/
 ||cdn.images.autosport.com/plus/subs-ptd-news.jpg$domain=autosport.com
 ||cdn.images.autosport.com/standards/js/$domain=autosport.com
 ||cdn.images.autosport.com/subscriptions/images/
@@ -42,6 +45,7 @@
 ||coolsport.pw/adtadd.html
 ||coolsport.pw/index_fichiers/$subdocument,script
 ||creative.ad120m.com
+||crichd.tv/images/
 ||cricket-365.tv/platform.twitter.com/
 ||css.motogp.com/js/check_buy_out.js$domain=motogp.com
 ||css.motogp.com/js/fb_button_connect.js$domain=motogp.com
@@ -51,14 +55,20 @@
 ||css.motogp.com/js/user_pass.js$domain=motogp.com
 ||disqus.com
 ||drakulastream.eu/images/stories/$domain=coolsport.pw
+||extratorrent.cc/chat_update.php
+||extratorrent.cc/scripts/
 ||f1tcdn.net/includes/site_10-min.js$domain=f1technical.net
+||facebook.com/plugins/$domain=extratorrent.cc
+||fbcdn-profile-a.akamaihd.net
+||files.leton.tv/close_button.png
+||files.leton.tv/letonlogo.png
 ||formula1.com/img/cookiepolicybanner/$domain=formula1.com
 ||formula1.com/js/cookies.js$domain=formula1.com
 ||formula1.com/js/galleryRollover.js$domain=formula1.com
 ||formula1.com/js/homePromoNonFlash.js$domain=formula1.com
 ||free.timeanddate.com
 ||google.com/js/bg/$domain=youtube.com
-||google-analytics.com$domain=chipworks.com
+||google-analytics.com$domain=leton.tv
 ||googletagservices.com/tag/js/$domain=flipkart.com
 ||graph.facebook.com
 ||hulu.com/firehose/v1/login$domain=hulu.com
@@ -66,15 +76,22 @@
 ||hulu.com/sapi/search/suggest_cache
 ||hulu.com/videos/viewed/$domain=hulu.com
 ||i.forbesimg.com/scripts/combined/js/article-responsive.485f3ed6bcb0df03dc3d2010f0f59a268d0f50d0.js$domain=forbes.com
+||i44.tinypic.com
 ||ifixit.org/blog/wp-includes/js/$script
 ||instagram.com$domain=mashable.com,media,subdocument,object,image,script,stylesheet,xmlhttprequest,popup
+||l.longtailvideo.com/5/10/logo.png
+||leton.tv/logo.php
+||leton.tv/space.png
 ||live.cricket-365.pw/ads/
 ||livefyre.com
+||location.bloomberg.com/query/
+||login.bloomberg.com/user_credentials/
 ||mashable.com/taboola/$media,subdocument,object,image,script,stylesheet,xmlhttprequest,popup
 ||mochkila.com
 ||motogp.com/en/cookie_message$domain=motogp.com
 ||motorsport.com/livefyre
 ||p.hulu.com$domain=hulu.com
+||personalization.bloomberg.com/user/recommendations/meta/
 ||platform.twitter.com
 ||plus.google.com/js/
 ||prvservers.com$image
@@ -82,6 +99,8 @@
 ||rack.1.mshcdn.com/assets$domain=mashable.com,script,xmlhttprequest,popup
 ||rack.2.mshcdn.com/assets$domain=mashable.com,image,script,xmlhttprequest,popup
 ||rack.3.mshcdn.com/assets$domain=mashable.com,image,script,xmlhttprequest,popup
+||reytv.co/adds/
+||reytv.co/images/
 ||s.gravatar.com/js/gprofiles.js
 ||s.hulu.com/gc$domain=hulu.com
 ||s.ytimg.com/yts/jsbin/www-scheduler-vfltpmjOU/www-scheduler.js$domain=youtube.com
@@ -89,9 +108,11 @@
 ||secure.hulu.com/account/authenticate$domain=hulu.com
 ||secure.motogp.com/en/api/cookies$domain=motogp.com
 ||snt-ipo.com$media,subdocument,object,image,script,stylesheet,xmlhttprequest,popup
+||st.chatango.com
 ||static.huluim.com/huluguru/vendor/$domain=hulu.com
 ||streamhunter.eu/images/stories/$domain=coolsport.pw
 ||tempo.hulu.com/v1/h2o/watch/$domain=hulu.com
+||tvole.me/images/
 ||tvole.me/station/22/$popup
 ||vine.co$domain=mashable.com,media,subdocument,object,image,script,stylesheet,xmlhttprequest,popup
 ||widget.pushbullet.com
@@ -117,9 +138,12 @@ arstechnica.com##[id="profile"]
 articles.economictimes.indiatimes.com##[class="mod-featuredimage tplmodulefeaturedimage mod-homepageimage mod-articleimage"]
 articles.economictimes.indiatimes.com##DIV[id="mod-readers-comment"][class="mod-readerscomment"]
 au.ibtimes.com##DIV[class="bk_basic bk_playtv1 mg_b0"]
+blakemasters.com##DIV[id="post-notes"]
 blog.coolaj86.com##DIV[class="css-shares"]
 blog.coolaj86.com##DIV[class="gittip-widget gittip-0002"]
 blog.coolaj86.com##IFRAME[src="https://www.gittip.com/coolaj86/widget.html"]
+blog.gsmarena.com##.after-entry.row
+blog.gsmarena.com##.meta.category
 blog.gsmarena.com##[class="add-bottom twentyfour columns"]
 blog.gsmarena.com##[class="comment-count meta comments right"]
 blog.gsmarena.com##[id="sidebar"]
@@ -161,6 +185,15 @@ en.savefrom.net##DIV[id="ox7"]
 en.savefrom.net##DIV[id="social_group_widget"][class="col-r"]
 en.savefrom.net##FOOTER
 en.savefrom.net##IFRAME[id="a2ce86ce"][name="a2ce86ce"]
+extratorrent.cc##[style="border: 1px #000 dashed;"]
+extratorrent.cc##[style="padding: 5px; text-align: center;"]
+extratorrent.cc##DIV.blog_content
+extratorrent.cc##DIV.blog_left
+extratorrent.cc##DIV.blog_right
+extratorrent.cc##DIV.blog_top
+extratorrent.cc##IMG[src="http://static.extratorrent.cc/images/download_normal.gif"]
+extratorrent.cc##TD.td_menu
+extratorrent.cc##TD[width="6"]
 filehippo.com##.techbeat-widget-wide-container.download-page.clearfix
 filehippo.com##DIV[id="related-software"]
 filehippo.com##DIV[id="sidebar"]
@@ -204,8 +237,22 @@ gre.learnhub.com##DIV[id="leaders"][class="box"]
 gre.learnhub.com##DIV[id="similar_questions"]
 gre.learnhub.com##DIV[id="trustmarks_wrapper"]
 gre.learnhub.com##DIV[id="twitter"]
+gsmarena.com###ttl
+gsmarena.com##.sub-footer
 highonandroid.com##DIV[id="sidebar"]
+http://1-ps.googleusercontent.com/hk/Z0iwOjcIb8r0r6u_JrSay2OZvz/www.thessdreview.com/wp-content/uploads/2015/02/
+http://hdcast.org/goalsoftoday.jpg
+http://l.longtailvideo.com/5/9/logo.png
+http://liveall.tv/logo.php?streampage=teeptit14axoarn
 http://magoosh.com/gre/wp-content/plugins/$domain=magoosh.com,media,subdocument,object,image,script,stylesheet,xmlhttprequest,popup
+http://mamahd.com/images/
+http://static.extratorrent.cc/images/avatars/
+http://static.extratorrent.cc/images/noavatar_female.gif
+http://static.extratorrent.cc/images/noavatar_male.gif
+http://static.extratorrent.cc/images/other/
+http://wds.liveall.tv/logo.png
+http://www.hdcast.org/images/
+http://www.tvole.me/adcxtnew_1_18.js
 https://accounts.google.com/o/oauth2/
 https://apis.google.com/_/scs/abc-static/_/js/$domain=youtube.com
 https://d1luk0418egahw.cloudfront.net/Assets/Guide/ifixit/FrameModules-comments.js$object,script
@@ -224,6 +271,14 @@ kaisar-haque.blogspot.com##DIV[id="comments"][class="comments"]
 kaisar-haque.blogspot.com##DIV[id="Subscribe1"][class="widget Subscribe"]
 kickass.to###feedback
 kickass.to##.sidebarCell
+kickass.to##A[class="ajaxLink icon16 textButton iplus"]
+kickass.to##A[class="ajaxLink icon16 textButton ireport redButton"]
+kickass.to##A[class="siteButton giantButton    verifTorrentButton"]
+kickass.to##A[class="siteButton giantIcon bookmarkButton ajaxLink"]
+kickass.to##A[class="siteButton giantIcon rssButton ajaxLink"]
+kickass.to##A[id="report_button"]
+kickass.to##DIV[class="sharingWidgetBox"]
+kickass.to##SPAN[class="block relative"]
 learnpythonthehardway.org##A[class="twitter-follow-button"]
 learnpythonthehardway.org##DIV[id="footer"]
 learnpythonthehardway.org##DIV[id="paydiv"]
@@ -254,6 +309,9 @@ m.anandtech.com##FOOTER[class="footer noprint"]
 m.anandtech.com##HEADER[class="header noprint"]
 m.anandtech.com##NAV[class="nav inner_nav animenu"]
 m.anandtech.com##NAV[class="topic_menu topic_inner"]
+m.autosport.com##DIV[class="ui-block-b-inner"]
+m.youtube.com##DIV[id="koya_child_2"][class="koya-komponent-binding"]
+m.youtube.com##DIV[id="koya_elem_0_16"][class="koya-partial"]
 magoosh.com##DIV[class="author-bio"]
 magoosh.com##DIV[class="post-entries"]
 magoosh.com##DIV[class="pp_content_container"]
@@ -273,6 +331,10 @@ magoosh.com##DIV[id="text-8"][class="widget widget_text"]
 magoosh.com##IMG[class="alignnone size-full wp-image-3081"]
 magoosh.com##UL[id="sharebar"]
 magoosh.com##UL[id="sharebarx"]
+mamahd.com##.top.row
+mamahd.com##A[href="http://www.goalsoftoday.com/"]
+mamahd.com##DIV[class="footer row"]
+mamahd.com##DIV[class="right-col cell"]
 mashable.com##[class="article-comments limit-comments"]
 mashable.com##[class="box-cell sidebar"]
 mashable.com##[class="credit"]
@@ -351,6 +413,7 @@ translate.googleusercontent.com##DIV[id="tabs_header"][class="tabs_header zoom"]
 translate.googleusercontent.com##DIV[id="threadLeftAd"]
 translate.googleusercontent.com##SPAN[class="browse"]
 translate.googleusercontent.com##TABLE[class="cm"]
+tvole.me##DIV[style="padding-left:10px"]
 washingtonexaminer.com##IFRAME
 www.4icu.org##A[href="/about/linktous.htm"]
 www.4icu.org##A[href="http://twitter.com/4icuorg"]
@@ -419,6 +482,8 @@ www.autoblog.com##DIV[id="meerkat-wrap"]
 www.autoblog.com##DIV[id="partner_feeds"]
 www.autoblog.com##FOOTER[id="f1"]
 www.autosport.com##A[class="boxes"]
+www.autosport.com##A[href="http://gppredictor.com/?utm_source=autosport&utm_medium=ptd&utm_campaign=signup"]
+www.autosport.com##A[href="http://www.autosport.com/rallying/wrc-radio-live/"]
 www.autosport.com##DIV[class="featureMinipic"]
 www.autosport.com##DIV[class="snbuttons"]
 www.autosport.com##DIV[class="tabs"]
@@ -465,6 +530,9 @@ www.beatthegmat.com##DIV[id="btg_login_bar"][class="bv-top-box-wrapper"]
 www.beatthegmat.com##DIV[id="footer"]
 www.beatthegmat.com##DIV[id="sidebar"]
 www.beatthegmat.com##TD[class="byline-image"]
+www.bloomberg.com##A[class="mini-live-player"]
+www.bloomberg.com##DIV[class="index-page__top-ad"]
+www.bloomberg.com##DIV[class="tophat"]
 www.careeranna.com##A[class="pin-it-button"]
 www.careeranna.com##DIV[class="header-content"]
 www.careeranna.com##DIV[id="ads125-widget-2"][class="widget ads125-widget"]
@@ -557,6 +625,7 @@ www.espncricinfo.com##DIV[class="wrapper"]
 www.espncricinfo.com##DIV[id="usrcomment"]
 www.espncricinfo.com##DIV[id="win8Prompt"]
 www.espncricinfo.com##SECTION[class="comments-reponsive col-10-12"]
+www.espncricinfo.com##SECTION[class="comments-reponsive col-9-12"]
 www.extremetech.com##[class="add-nav"]
 www.extremetech.com##[class="admin-panel"]
 www.extremetech.com##[class="articles-list"]
@@ -592,6 +661,7 @@ www.forbes.com##[class="user hover togglable collapsed"]
 www.forbes.com##[class="vp-wrapper initialized"]
 www.forbes.com##[class="zemanta-img"]
 www.forbes.com##DIV[class="row"]
+www.formula1.com##[class="advertisingimageextended-link img-advert"]
 www.formula1.com##DIV[class="GenericColTwoWrap"]
 www.formula1.com##DIV[id="bannerWrapper"]
 www.formula1.com##IFRAME[id="iframe"]
@@ -601,6 +671,8 @@ www.fpgarelated.com##DIV[class="box right"]
 www.fpgarelated.com##DIV[id="commax_container"]
 www.fpgarelated.com##DIV[id="side"]
 www.ghacks.net##ASIDE[id="sidebar"]
+www.goodreads.com##A[class="left imgcol"]
+www.goodreads.com##DIV[class="ctaBannerShown"]
 www.greedge.com##DIV[id="colRight"]
 www.greedge.com##DIV[id="footer"]
 www.gretousvisa.com##A[href="http://www.blogger.com/follow-blog.g?blogID=2477196509472599559"]
@@ -646,6 +718,10 @@ www.imdb.com##[class="maindetails_sidebar"]
 www.imdb.com##[id="megaMenu"]
 www.imdb.com##[id="nb_extra"]
 www.imdb.com##[id="nb_personal"]
+www.imdb.com##DIV[class="winner-option watch-option "]
+www.imdb.com##DIV[class="wlb_classic_wrapper"]
+www.imdb.com##DIV[id="prometer_container"]
+www.imdb.com##TD[id="overview-bottom"]
 www.irctc.co.in##IMG[src="https://www.irctc.co.in/images/newbanner/air1_banner_ERS.gif"]
 www.jamesallenonf1.com##A[href="http://www.gptours.com/pick8/"]
 www.jamesallenonf1.com##A[href="http://www.wallsauce.com/wall-murals/sport-copy831455055/formula-1-wall-murals/"]
@@ -683,12 +759,17 @@ www.manhattangmat.com##DIV[id="sidebar"][class="span4"]
 www.manhattangmat.com##DIV[id="single-post-nav"]
 www.manhattanprep.com##DIV[id="sidebar"][class="span4"]
 www.menshealth.com##DIV[id="sidebar-right"][class="column sidebar region grid-2"]
+www.motogp.com##[class="area_title"]
 www.motogp.com##A[class="promo_banner"]
+www.motogp.com##ASIDE[id="related_updates"]
 www.motogp.com##DIV[class="ads"]
 www.motogp.com##DIV[class="top_page_container"]
 www.motogp.com##DIV[id="footer"]
 www.motogp.com##DIV[id="footer_out"]
 www.motogp.com##DIV[id="messageBar"][class="messageBar cookies"]
+www.motogp.com##DIV[id="other_updates"]
+www.motogp.com##NAV[class="maxi_top"]
+www.motogp.com##NAV[id="main_footer"]
 www.motorbeam.com##DIV[class="discussin"]
 www.motorbeam.com##DIV[class="fb_comments"]
 www.motorbeam.com##DIV[class="sidebar"]
@@ -701,13 +782,18 @@ www.motorsport.com##[class="viewsCount"]
 www.motorsport.com##[id="footer"]
 www.motorsport.com##[id="livefyre_comments_box"]
 www.motorsport.com##DIV[class="btnsView"]
+www.motorsport.com##DIV[class="column columnPhotos photoGalView photoGalListView"]
 www.motorsport.com##DIV[class="contentNavig news"]
+www.motorsport.com##DIV[class="contentNavig video"]
 www.motorsport.com##DIV[class="contentNavigSmall bottom"]
 www.motorsport.com##DIV[class="contentNavigSmall top"]
 www.motorsport.com##DIV[class="photoGalWidget headings photoGalView photoGalListView levelHeight90"]
 www.motorsport.com##DIV[class="relatedArticles"]
 www.motorsport.com##DIV[class="topAp"]
+www.motorsport.com##DIV[class="videosRelatedBox videoView videoThumbView"]
 www.motorsport.com##DIV[class="videoWidget headings videoView videoListView levelHeight90"]
+www.motorsport.com##DIV[class="widgetTrendingContent"]
+www.motorsport.com##DIV[id="article_sidebar"][class="sidebar"]
 www.motorsport.com##DIV[id="related_page"]
 www.motorsport.com##DIV[id="take_over_ap"]
 www.motorsport.com##UL[id="user_menu"]
@@ -731,6 +817,7 @@ www.msn.com##ASIDE[id="aside"]
 www.msn.com##DIV[class="list"]
 www.msn.com##DIV[class="normalsection sportsfooter loaded"]
 www.msn.com##DIV[class="pagingsection dark loaded"]
+www.msn.com##SECTION[class="morefromprovider loaded"]
 www.neowin.net##[class="comments"]
 www.neowin.net##[class="footer"]
 www.neowin.net##[class="menu"]
@@ -741,10 +828,12 @@ www.neowin.net##DIV[class="mega-menu"]
 www.neowin.net##DIV[class="post-nav-links"]
 www.neowin.net##DIV[id="sidebar"]
 www.nytimes.com##[class="nocontent robots-nocontent"]
+www.nytimes.com##[class="ribbon-page-navigation previous homepageLink"]
 www.nytimes.com##[id="navigation-edge"]
 www.nytimes.com##[id="ribbon"]
 www.nytimes.com##[id="whats-next"]
 www.nytimes.com##ASIDE
+www.nytimes.com##NAV[class="ribbon-page-navigation previous homepageLink"]
 www.online-convert.com##DIV[class="beautyimage"]
 www.online-convert.com##DIV[class="secondbar"]
 www.pcworld.com##[class="side"]
@@ -755,6 +844,7 @@ www.policymic.com##UL[class="share-toolbar share-toolbar-vertical show-all"]
 www.realworldtech.com##DIV[class="follow-button"]
 www.realworldtech.com##IFRAME
 www.realworldtech.com##LI[id="follow"]
+www.saavn.com##DIV[id="ad-drawer"]
 www.servimg.com##DIV[id="profile_register_advertising"]
 www.servimg.com##FORM
 www.sharelatex.com##DIV[class="follow-us alert alert-success"]
@@ -846,6 +936,8 @@ www.worldaffairsjournal.org##DIV[id="emailcapture"][class="emailsignup"]
 www.writelatex.com##DIV[class="col-sm-4"]
 www.writelatex.com##DIV[id="templates_info"]
 www.writelatex.com##FOOTER[id="footer"]
+www.wsj.com##DIV[class="module trending_now  "]
+www.wsj.com##UL[class="top_stories clear"]
 www.xda-developers.com##[class="header-right"]
 www.xda-developers.com##DIV[class="banner-post banner"]
 www.xda-developers.com##DIV[class="socialBar"]
