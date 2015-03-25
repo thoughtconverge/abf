@@ -1,4 +1,5 @@
 ﻿[Adblock]
+@@||1.bp.blogspot.com
 @@||b3.hoopchina.com.cn/images/logo2013/v1/hp_logo_racing.png$media,image
 @@||encrypted.google.com/recaptcha/api/
 @@||inbox.google.com/$document
@@ -217,6 +218,7 @@ autosport.com##DIV[id="featuresList"]
 autosport.com##DIV[id="filterarea"]
 autosport.com##DIV[id="hometabs"]
 autosport.com##DIV[id="loginBoxWrap"]
+autosport.com##IMG[src="http://cdn.images.autosport.com/editorial/1425052867.jpg"]
 autosport.com##TABLE[class="boxes"]
 autosport.com##TABLE[class="content"]
 autosport.com##TABLE[class="smalltext"]
@@ -352,6 +354,16 @@ dailytech.com##DIV[id="ArticleCommentsContainer"][class="ArticleComments"]
 dailytech.com##IFRAME
 dailytech.com##TABLE[class="ArticleToolBar"]
 desidime.com##DIV[class="grid-25 tablet-grid-33 grid-parent"]
+doregama.ind.in##[class="blog-pager"]
+doregama.ind.in##[class="morinfobtn"]
+doregama.ind.in##[class="widget gallery2"]
+doregama.ind.in##[class="widget-content"]
+doregama.ind.in##DIV[class="comments"]
+doregama.ind.in##DIV[id="newsticker"]
+doregama.ind.in##DIV[id="related_posts"]
+doregama.ind.in##DIV[id="sidebar-tengah"]
+doregama.ind.in##FOOTER[id="footer-wrapper"]
+doregama.ind.in##NAV[id="topnav"][class="naviy"]
 drhtv.tv##DIV[class="bannerLive"]
 economictimes.indiatimes.com##DIV[class="topBarRight"]
 economictimes.indiatimes.com##DIV[id="defaultCommentForm"]
@@ -480,6 +492,7 @@ ghacks.net##ASIDE[id="sidebar"]
 gmatclub.com##DIV[id="fbEventsLayout"]
 goodreads.com##A[class="left imgcol"]
 goodreads.com##DIV[class="ctaBannerShown"]
+google.com###promo-box
 grad-schools.usnews.rankingsandreviews.com##ASIDE[id="rail"][class="rail-right"]
 grad-schools.usnews.rankingsandreviews.com##DIV[class="aside aside-bottom"]
 grad-schools.usnews.rankingsandreviews.com##DIV[class="footer_disclaimers"]
