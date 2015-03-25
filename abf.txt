@@ -120,10 +120,12 @@
 ||vine.co$domain=mashable.com,media,subdocument,object,image,script,stylesheet,xmlhttprequest,popup
 ||widget.pushbullet.com
 ||youtube.com/player_api$domain=flipkart.com
+1-ps.googleusercontent.com/hk/Z0iwOjcIb8r0r6u_JrSay2OZvz/www.thessdreview.com/wp-content/uploads/2015/02/
 4icu.org##A[href="/about/linktous.htm"]
 4icu.org##A[href="http://twitter.com/4icuorg"]
 4icu.org##A[href="http://www.facebook.com/www.4icu.org"]
 4icu.org##A[href="https://plus.google.com/+4icuOrg"]
+accounts.google.com/o/oauth2/
 adityaravishankar.com##ASIDE[id="reallysimpletwitterwidget-3"][class="widget widget_reallysimpletwitterwidget"]
 adityaravishankar.com##ASIDE[id="text-2"][class="widget widget_text"]
 adityaravishankar.com##ASIDE[id="text-3"][class="widget widget_text"]
@@ -173,6 +175,7 @@ androidheadlines.com##DIV[class="single-sidebar"]
 androidheadlines.com##DIV[id="disqus_thread"]
 androidheadlines.com##DIV[id="footer"]
 androidheadlines.com##SECTION[class="android-news"]
+apis.google.com/_/scs/abc-static/_/js/$domain=youtube.com
 apkmirror.com##[class="modalButton waves-effect waves-circle orangeWave"]
 apkmirror.com##[id="uploadAPK"]
 apkmirror.com##DIV[class="adsWidget google-ad-leaderboard"]
@@ -336,6 +339,10 @@ cultofmac.com##DIV[class="scribol"]
 cultofmac.com##DIV[class="social-links"]
 cultofmac.com##DIV[id="sidebar"]
 cultofmac.com##DIV[id="vanilla-comments"]
+d1luk0418egahw.cloudfront.net/Assets/Guide/ifixit/FrameModules-comments.js$object,script
+d1luk0418egahw.cloudfront.net/Assets/Guide/ifixit/FrameModules-moderator_vote.js$script
+d1luk0418egahw.cloudfront.net/Assets/Guide/ifixit/FrameModules-user_like.js$script
+d1luk0418egahw.cloudfront.net/Assets/Guide/ifixit/Shared-FrameModules-addToCartFrameModule.js$script
 dailydot.com##DIV[class="container daily-portal"]
 dailydot.com##DIV[class="span4 sidebar hidden-phone"]
 dailymail.co.uk##[class="new shallow-ac mini"]
@@ -444,6 +451,7 @@ filehippo.com##.techbeat-widget-wide-container.download-page.clearfix
 filehippo.com##DIV[id="related-software"]
 filehippo.com##DIV[id="sidebar"]
 filehippo.com##DIV[id="sidebar"]
+filehippo.com##DIV[id="techbeat-widget"]
 filehippo.com##DIV[id="techbeat-widget-wide-container"][class="clearfix"]
 filehippo.com##FOOTER[class="clearfix"]
 filehippo.com##FOOTER[class="clearfix"]
@@ -532,6 +540,8 @@ gsmarena.com##UL[id="social"][class="left row social-buttons cf"]
 guidingtech.com##[class="GetResponseOptInFormContainer placeholder-label"]
 guidingtech.com##[class="likepost"]
 guidingtech.com##[class="widget popular-widget"]
+hdcast.org/goalsoftoday.jpg
+hdcast.org/images/
 highonandroid.com##DIV[id="sidebar"]
 housefull.co.in##DIV[id="chatbox_OnlineChat"][class="chatbox"]
 howtogeek.com##A[class="twitter-follow-button mnuTwitterButton"]
@@ -539,28 +549,6 @@ howtogeek.com##DIV[class="difj"]
 howtogeek.com##DIV[class="g-plusone"]
 howtogeek.com##DIV[id="discourselink"]
 howtogeek.com##DIV[id="ft"][class="footer"]
-http://1-ps.googleusercontent.com/hk/Z0iwOjcIb8r0r6u_JrSay2OZvz/www.thessdreview.com/wp-content/uploads/2015/02/
-http://hdcast.org/goalsoftoday.jpg
-http://l.longtailvideo.com/5/9/logo.png
-http://liveall.tv/logo.php?streampage=teeptit14axoarn
-http://magoosh.com/gre/wp-content/plugins/$domain=magoosh.com,media,subdocument,object,image,script,stylesheet,xmlhttprequest,popup
-http://mamahd.com/images/
-http://static.extratorrent.cc/images/avatars/
-http://static.extratorrent.cc/images/noavatar_female.gif
-http://static.extratorrent.cc/images/noavatar_male.gif
-http://static.extratorrent.cc/images/other/
-http://wds.liveall.tv/logo.png
-http://www.hdcast.org/images/
-http://www.tvole.me/adcxtnew_1_18.js
-https://accounts.google.com/o/oauth2/
-https://apis.google.com/_/scs/abc-static/_/js/$domain=youtube.com
-https://d1luk0418egahw.cloudfront.net/Assets/Guide/ifixit/FrameModules-comments.js$object,script
-https://d1luk0418egahw.cloudfront.net/Assets/Guide/ifixit/FrameModules-moderator_vote.js$script
-https://d1luk0418egahw.cloudfront.net/Assets/Guide/ifixit/FrameModules-user_like.js$script
-https://d1luk0418egahw.cloudfront.net/Assets/Guide/ifixit/Shared-FrameModules-addToCartFrameModule.js$script
-https://www.manhattangmat.com/blog/wp-content/themes/standard/js/
-https://www.manhattangmat.com/blog/wp-content/themes/standard/lib/
-https://www.manhattangmat.com/blog/wp-includes/js/
 hulu.com##DIV[class="functional-bar beacon"]
 hulu.com##DIV[class="watch"]
 hulu.com##DIV[id="footer"][class="z-index-layer-2"]
@@ -605,6 +593,7 @@ kickass.to##A[class="siteButton giantIcon rssButton ajaxLink"]
 kickass.to##A[id="report_button"]
 kickass.to##DIV[class="sharingWidgetBox"]
 kickass.to##SPAN[class="block relative"]
+l.longtailvideo.com/5/9/logo.png
 labnol.org##DIV[id="flipboard"]
 learnpythonthehardway.org##A[class="twitter-follow-button"]
 learnpythonthehardway.org##DIV[id="footer"]
@@ -625,6 +614,7 @@ live.autosport.com##TABLE[class="content"]
 live.autosport.com##TD[height="120"]
 live.autosport.com##TD[height="15"]
 live.autosport.com##TD[valign="middle"][align="right"][class="content"]
+liveall.tv/logo.php?streampage=teeptit14axoarn
 m.anandtech.com##A[href="/rss/"]
 m.anandtech.com##A[href="http://www.facebook.com/AnandTech/"]
 m.anandtech.com##ARTICLE[class="facebook_like"]
@@ -666,6 +656,7 @@ magoosh.com##DIV[id="text-8"][class="widget widget_text"]
 magoosh.com##IMG[class="alignnone size-full wp-image-3081"]
 magoosh.com##UL[id="sharebar"]
 magoosh.com##UL[id="sharebarx"]
+magoosh.com/gre/wp-content/plugins/$domain=magoosh.com,media,subdocument,object,image,script,stylesheet,xmlhttprequest,popup
 makeuseof.com##ASIDE[class="secondary"]
 makeuseof.com##DIV[class="header__social nav-item nav-item--dropdown"]
 makeuseof.com##DIV[class="img__sharer"]
@@ -679,6 +670,7 @@ mamahd.com##.top.row
 mamahd.com##A[href="http://www.goalsoftoday.com/"]
 mamahd.com##DIV[class="footer row"]
 mamahd.com##DIV[class="right-col cell"]
+mamahd.com/images/
 manhattangmat.com##A[href="http://www.manhattangmat.com/blog/2012/01/03/what-to-read-and-what-not-to-read-on-rc-passages/#comments"]
 manhattangmat.com##DIV[class="author-box-image"]
 manhattangmat.com##DIV[class="post-meta clearfix"]
@@ -690,6 +682,9 @@ manhattangmat.com##DIV[id="pings"]
 manhattangmat.com##DIV[id="respond"][class="comment-respond"]
 manhattangmat.com##DIV[id="sidebar"][class="span4"]
 manhattangmat.com##DIV[id="single-post-nav"]
+manhattangmat.com/blog/wp-content/themes/standard/js/
+manhattangmat.com/blog/wp-content/themes/standard/lib/
+manhattangmat.com/blog/wp-includes/js/
 manhattanprep.com##DIV[id="sidebar"][class="span4"]
 mashable.com##[class="article-comments limit-comments"]
 mashable.com##[class="box-cell sidebar"]
@@ -835,6 +830,10 @@ ssciglobal.in##EMBED[src="../images/top-flash.swf"]
 ssciglobal.in##IMG[src="images/prsentation.gif"]
 ssciglobal.in##IMG[src="images/snapshot.gif"]
 ssciglobal.in##OBJECT
+static.extratorrent.cc/images/avatars/
+static.extratorrent.cc/images/noavatar_female.gif
+static.extratorrent.cc/images/noavatar_male.gif
+static.extratorrent.cc/images/other/
 stupidsid.com##DIV[class="bannergroup"]
 stupidsid.com##DIV[class="bannergroupclearfix"]
 stupidsid.com##DIV[id="ja-botsl"][class="wrap "]
@@ -921,6 +920,7 @@ tvole.me##[id="fixedtop1"]
 tvole.me##[id="fixedtop2"]
 tvole.me##DIV[style="padding-left:10px"]
 tvole.me##P
+tvole.me/adcxtnew_1_18.js
 udemy.com##DIV[class="fancybox-overlay fancybox-overlay-fixed"]
 usnews.com##A[href="http://www.usnews.com/education/online-education/features/multistep-oe?s_cid=53187"]
 usnews.com##DIV[class="bar block-generous"]
@@ -942,6 +942,7 @@ washingtonpost.com##[class="pb-comment-wrapper "]
 washingtonpost.com##[class="pb-layout-item pb-chain pb-one chain-1"]
 washingtonpost.com##[id="nav-bar"]
 washingtonpost.com##SPAN[class="tweet-authors"]
+wds.liveall.tv/logo.png
 wikihow.com##DIV[id="sidebar"]
 wisegeek.org##DIV[id="jquery-lightbox"]
 wisegeek.org##DIV[id="jquery-overlay"]
