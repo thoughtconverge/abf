@@ -273,8 +273,11 @@ bbc.com##UL[id="blq-nav-main"]
 bbs.hupu.com###back
 bbs.hupu.com##.breadCrumbs
 bbs.hupu.com##.cm_brief
-bbs.hupu.com##.floor > .user[style="z-index:38"] + *
-bbs.hupu.com##.floor > [style="z-index:37"] + .floor_box
+bbs.hupu.com##.floor > [style="z-index:34"] + * *
+bbs.hupu.com##.floor > [style="z-index:35"] + * *
+bbs.hupu.com##.floor > [style="z-index:36"] + * *
+bbs.hupu.com##.floor > [style="z-index:37"] + * *
+bbs.hupu.com##.floor > [style="z-index:38"] + * *
 bbs.hupu.com##.liangShare
 bbs.hupu.com##.sign
 bbs.hupu.com##.subhead > [href="http://bbs.hupu.com/fyt-f1"]
@@ -515,6 +518,8 @@ forbes.com##[class="vp-wrapper initialized"]
 forbes.com##[class="zemanta-img"]
 forbes.com##DIV[class="row"]
 formula1.com##[class="advertisingimageextended-link img-advert"]
+formula1.com##DIV[class="fom-modal is-visible"]
+formula1.com##DIV[class="fom-modal-shim is-visible"]
 formula1.com##DIV[class="GenericColTwoWrap"]
 formula1.com##DIV[class="inner-wrap related-content"]
 formula1.com##DIV[id="bannerWrapper"]
@@ -981,6 +986,7 @@ vox.com##[class="l-rail"]
 vox.com##[class="m-global-header__user-items usernav-active"]
 vox.com##[class="m-global-header__user-items"]
 vox.com##[class="sp-box-bar"]
+vox.com##DIV[class="m-linksets"]
 washingtonexaminer.com##IFRAME
 washingtonpost.com##[class="content-strip-marker recommended"]
 washingtonpost.com##[class="content-strip-marker trending"]
