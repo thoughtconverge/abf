@@ -11,6 +11,7 @@
 ||3.bp.blogspot.com/-qXQrkzwfxtM/UV69KZodGkI/AAAAAAAAACA/CBzE74QHu6w/s1600/close_button.png
 ||4.bp.blogspot.com/-sIzCYGF-XOI/TfBczW6YLFI/AAAAAAAABLE/Xg6MEOFBsO0/s1600/close%2Bbutton.jpg
 ||42me.com
+||a.alimama.cn
 ||a.huluad.com/crossdomain.xml$domain=hulu.com
 ||ad365.pw
 ||ajax.cloudflare.com
@@ -23,6 +24,8 @@
 ||autosport.com/js/popular.js
 ||autosport.com/js/sub_top.mtr.js$domain=autosport.com
 ||autosport.com/js/twitter.js$domain=autosport.com
+||b3.hoopchina.com.cn
+||bbs.hupu.com
 ||blogsmithmedia.com/www.engadget.com/include/
 ||bloomberg.com/api/articles/most-popular
 ||bloomberg.com/bcom/iframe/
@@ -74,12 +77,14 @@
 ||google.com/js/bg/
 ||google-analytics.com
 ||googletagservices.com/tag/js/
+||goto.hupu.com
 ||graph.facebook.com
 ||hulu.com/firehose/v1/login$domain=hulu.com
 ||hulu.com/mozart/v1.h2o/recommended/$domain=hulu.com
 ||hulu.com/sapi/search/suggest_cache
 ||hulu.com/videos/viewed/$domain=hulu.com
 ||i.forbesimg.com/scripts/combined/js/article-responsive.485f3ed6bcb0df03dc3d2010f0f59a268d0f50d0.js$domain=forbes.com
+||i1.hoopchina.com.cn/user/
 ||i44.tinypic.com
 ||ifixit.org/blog/wp-includes/js/$script
 ||instagram.com$domain=mashable.com,media,subdocument,object,image,script,stylesheet,xmlhttprequest,popup
@@ -103,6 +108,7 @@
 ||rack.1.mshcdn.com/assets$domain=mashable.com,script,xmlhttprequest,popup
 ||rack.2.mshcdn.com/assets$domain=mashable.com,image,script,xmlhttprequest,popup
 ||rack.3.mshcdn.com/assets$domain=mashable.com,image,script,xmlhttprequest,popup
+||remind.hupu.com
 ||reytv.co/adds/
 ||reytv.co/images/
 ||s.gravatar.com/js/gprofiles.js
@@ -121,6 +127,7 @@
 ||vine.co$domain=mashable.com,media,subdocument,object,image,script,stylesheet,xmlhttprequest,popup
 ||widget.pushbullet.com
 ||youtube.com/player_api$domain=flipkart.com
+||zampdsp.com
 0dt.net###menu
 0dt.net###menu
 0dt.net##.stefanvdlightareoff
@@ -247,6 +254,7 @@ autosport.com##TD[width="319"]
 autosport.com##TD[width="8"]
 autosport.com/css/plus0113b.css
 autosport.com/js/overlib.js?v=2
+b1.hoopchina.com.cn
 b3tfrm.pw##IMG[src="http://kepfeltoltes.hu/thumb/131015/logo_www.kepfeltoltes.hu_.png"]
 b3tfrm.pw##IMG[src="http://kepfeltoltes.hu/thumb/131015/logo_www.kepfeltoltes.hu_.png"]
 b3tfrm.pw##IMG[style="left: 5px; position: absolute; top: 345px;"]
@@ -261,6 +269,28 @@ bbc.com##DIV[id="footer-services"][class="blq-clearfix"]
 bbc.com##DIV[id="live-event-get-involved"][class="live-event-get-involved open"]
 bbc.com##SECTION[id="follow-us"][class="module clearfix"]
 bbc.com##UL[id="blq-nav-main"]
+bbs.hupu.com###back
+bbs.hupu.com##.breadCrumbs
+bbs.hupu.com##.cm_brief
+bbs.hupu.com##.floor > .user[style="z-index:38"] + *
+bbs.hupu.com##.floor > [style="z-index:37"] + .floor_box
+bbs.hupu.com##.liangShare
+bbs.hupu.com##.sign
+bbs.hupu.com##.subhead > [href="http://bbs.hupu.com/fyt-f1"]
+bbs.hupu.com##.subhead > [href="http://f1.hupu.com"]
+bbs.hupu.com##.user
+bbs.hupu.com##DIV[class="author"]
+bbs.hupu.com##DIV[class="bbs_head"]
+bbs.hupu.com##DIV[class="fback"]
+bbs.hupu.com##DIV[class="hp-footer"]
+bbs.hupu.com##DIV[class="hp-header hp-header-A"]
+bbs.hupu.com##DIV[class="hp-threeNav"]
+bbs.hupu.com##DIV[class="right"]
+bbs.hupu.com##DIV[class="tabs_header zoom"]
+bbs.hupu.com##DIV[id="footer-loadedError"]
+bbs.hupu.com##DIV[id="hp-topbarNav"]
+bbs.hupu.com##DIV[id="sidenav_bbs"]
+bbs.hupu.com##DIV[id="sub_sidebar"]
 beatthegmat.com##[class="alignleft size-full wp-image-76473"]
 beatthegmat.com##[class="size-full wp-image-95393 alignleft"]
 beatthegmat.com##DIV[class="comments-section"]
