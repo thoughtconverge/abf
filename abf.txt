@@ -285,6 +285,7 @@ bbs.hupu.com##.subhead > [href="http://f1.hupu.com"]
 bbs.hupu.com##.user
 bbs.hupu.com##DIV[class="author"]
 bbs.hupu.com##DIV[class="bbs_head"]
+bbs.hupu.com##DIV[class="dots_horizontal_thin"]
 bbs.hupu.com##DIV[class="fback"]
 bbs.hupu.com##DIV[class="hp-footer"]
 bbs.hupu.com##DIV[class="hp-header hp-header-A"]
@@ -353,6 +354,7 @@ careeranna.com##SECTION[id="related_posts"]
 cdn.gallery.autosport.com
 cdn.images.autosport.com/editorial/1361286604.jpg
 cdn.images.autosport.com/editorial/1361438575.jpg
+cdn-6.motorsport.com/static/img/skn_ad/
 chipworks.com##DIV[class="block footer-widget-4"]
 chipworks.com##DIV[class="primary"]
 chipworks.com##DIV[id="bottomFooterContainer"]
@@ -362,6 +364,20 @@ chipworks.com##DIV[id="post-banner"]
 chipworks.com##DIV[id="post-entries"]
 chipworks.com##DIV[id="topFooterContainer"]
 chipworks.com##DIV[id="topNavContainer"]
+chromeactions.com##.big.yellow
+chromeactions.com##[class="big red"]
+chromeactions.com##[class="big yellow"]
+chromeactions.com##[href="http://www.chromeactions.com/app/donate.php"]
+chromeactions.com##[href="http://www.chromeactions.com/magic-actions-for-youtube-help-and-tips.html"]
+chromeactions.com##[href="http://youtube.com/subscription_center?add_user=StrukoffBrothers"]
+chromeactions.com##[href="http://youtube.com/subscription_center?add_user=StrukoffBrothers"]
+chromeactions.com##[id="soc"]
+chromeactions.com##A[href="http://www.chromeactions.com/app/donate.php"]
+chromeactions.com##A[href="http://www.chromeactions.com/magic-actions-for-youtube-help-and-tips.html"]
+chromeactions.com##A[href="https://plus.google.com/110367533603365326399/posts"]
+chromeactions.com##A[href="https://twitter.com/intent/user?screen_name=chromeactions"]
+chromeactions.com##DIV[id="soc"]
+chromeactions.com##P[id="m2"]
 cnet.com##[class="col-12 items"]
 cnet.com##[class="collapsible"]
 cnx-software.com##DIV[class="widget widget_feeds"]
@@ -412,7 +428,6 @@ dailytech.com##DIV[id="ArticleCommentsContainer"][class="ArticleComments"]
 dailytech.com##IFRAME
 dailytech.com##TABLE[class="ArticleToolBar"]
 desidime.com##DIV[class="grid-25 tablet-grid-33 grid-parent"]
-doregama.ind.in##[class="blog-pager"]
 doregama.ind.in##[class="morinfobtn"]
 doregama.ind.in##[class="widget gallery2"]
 doregama.ind.in##[class="widget-content"]
@@ -467,6 +482,11 @@ espncricinfo.com##DIV[id="usrcomment"]
 espncricinfo.com##DIV[id="win8Prompt"]
 espncricinfo.com##SECTION[class="comments-reponsive col-10-12"]
 espncricinfo.com##SECTION[class="comments-reponsive col-9-12"]
+expertjobs.org###commentblock
+expertjobs.org##.widget.widget_text
+expertjobs.org##DIV.postmeta > *
+expertjobs.org##IMG[src="http://expertjobs.org/wp-content/uploads/2013/06/submit-resume-button.jpg"]
+expertjobs.org/wp-content/themes/revolution-code-blue/style.css
 extratorrent.cc##[style="border: 1px #000 dashed;"]
 extratorrent.cc##[style="padding: 5px; text-align: center;"]
 extratorrent.cc##DIV.blog_content
@@ -774,6 +794,7 @@ motorbeam.com##DIV[class="fb_comments"]
 motorbeam.com##DIV[class="sidebar"]
 motorbeam.com##DIV[class="text_box"]
 motorsport.com###user_menu.disabled.left
+motorsport.com##.sizer
 motorsport.com##[class="disabled"]
 motorsport.com##[class="hapb"]
 motorsport.com##[class="menuButton"]
@@ -857,6 +878,7 @@ overdrive.in##DIV[class="carSideBar"]
 overdrive.in##DIV[class="footer"]
 overdrive.in##DIV[class="topWhiteGrad"]
 overdrive.in##UL[id="menu"]
+paytm.com###message-placeholder
 pcworld.com##[class="side"]
 pcworld.com##DIV[id="commentsDiv"]
 pcworld.com##DIV[id="network"]
